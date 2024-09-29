@@ -1,9 +1,10 @@
 # Data Science Bootcamp 10
-My data science and analytics project
+My project and the lessons I learned from the data science bootcamp
 
 ## My personal projects
 
-1. SQL supermarket analysis
+1. Spreadsheets
+    - 
 2. SQL churn analysis
 3. R programming - Pao Ying Chub
 4. Looker GA4 Dashboard
