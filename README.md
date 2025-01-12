@@ -1,10 +1,9 @@
-# Data Science Bootcamp 10
-My project and the lessons I learned from the data science bootcamp
+# Data Science Bootcamp Batch 10
+## There are 10 sprints in the program and mini-projects.
 
-## My personal projects
 
 1. Spreadsheets 
-   - Formula Basic - Intermediate
+   - LEssential for data analysis
 2. SQL Databases
    - Create restaurant databases
    - SQL for Data Analyst
@@ -27,4 +26,5 @@ My project and the lessons I learned from the data science bootcamp
    - Public API
 
 ## Contact Me
-If you are interested. Please reach out to me at: thongdeengamlert.n@gmail.com
+If you are interested. Please reach out to me at: 
+Email: thongdeengamlert.n@gmail.com
