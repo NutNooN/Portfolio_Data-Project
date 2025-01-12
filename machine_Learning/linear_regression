@@ -1,0 +1,24 @@
+## split data
+## 1. Random
+set.seed(42)
+n <- nrow(mtcars)
+id <- sample(1:n, size = n* 0.8)
+train_data <- mtcars[id, ]
+test_data <- mtcars[-id, ]
+
+## Train Model
+model1 <- lm(mpg ~ hp + wt + am + disp, data = train_data)
+p_train <- predict(model1)
+(rmse_train <- sqrt(mean((train_data$mpg - p_train)**2)))
+
+## Test Model
+p_test <- predict(model1, newdata = test_data)
+(rmse_test <- sqrt(mean((test_data$mpg - p_test)**2)))
+
+## Print Result
+cat("RMSE Train:", rmse_train, "\n")
+cat("RMSE Test:", rmse_test)
+
+## \n = new line
+cat("RMSE Train:", rmse_train,
+    "\nRMSE Test:", rmse_test)
