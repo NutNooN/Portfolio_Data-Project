@@ -1,11 +1,10 @@
 # Data Science Bootcamp Batch 10
 There are 10 sprints in the program and mini-projects.
 
-
-1. Spreadsheets 
-   - LEssential for data analysis
+### 1. Spreadsheets 
+         Sprint : Google Sheet (Formula, Tools, Chart)
 2. SQL Databases
-   - Create restaurant databases
+   Sprint Create restaurant databases
    - SQL for Data Analyst
 3. R programming 
    - Pao Ying Chub game
