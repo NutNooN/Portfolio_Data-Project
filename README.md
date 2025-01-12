@@ -1,5 +1,5 @@
 # Data Science Bootcamp Batch 10
-## There are 10 sprints in the program and mini-projects.
+There are 10 sprints in the program and mini-projects.
 
 
 1. Spreadsheets 
