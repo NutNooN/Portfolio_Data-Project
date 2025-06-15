@@ -1,5 +1,5 @@
-# Data Science Bootcamp Batch 10
-There are 10 sprints in the program and mini-projects.
+# Data Project
+There are sprints and mini-projects that learn from Data Science Bootcamp.
 
 ### 1. Spreadsheets 
          Sprint : Google Sheet (Formula, Tool)
@@ -13,7 +13,7 @@ There are 10 sprints in the program and mini-projects.
          Project : Analyze nycflights13
 ### 4. Dashboard
          Sprint : Looker Dashboard
-         Sprint : Power BI
+         Project : Power BI
 ### 5. Essential Statistics
          Sprint : Statistics, AB Testing, Correlation
 ### 6. Machine Learning
